@@ -10,5 +10,5 @@ pip install opencv-python mediapipe keyboard
 - Press `esc` to switch to out of game mode, here up to four hands are detected at once
 - Press `enter` to switch into game mode
   - Here, there are 5 rounds. Show your hand when the text "Ready" appears.
-  - A score above 8 is counted as a win
+  - A score above 8 is counted as a win (you receive 3 for a win and 1 for a draw)
   - Hold your hand upright for best results
